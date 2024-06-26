@@ -3,6 +3,7 @@
    integers representing the Pascal’s triangle of n
 '''
 
+
 def pascal_triangle(n):
     triangle = []
     if type(n) is not int or n <= 0:
