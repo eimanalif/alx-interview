@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 '''minimum operations code'''
 def minOperations(n):
     '''a method that calculates the fewest number of operations'''
